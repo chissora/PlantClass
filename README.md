@@ -4,6 +4,8 @@ The **PlantDiseasesClassificationApp** is a machine learning application designe
 
 The model was trained on the **Kaggle platform** using **GPU T4 x2** to ensure high performance and fast computations. The goal of this project is to provide an effective tool for plant disease detection, which can aid farmers and agricultural professionals in identifying plant health issues and taking timely actions.
 
+Kaggle notebook: [Training Notebook on Kaggle](https://www.kaggle.com/code/dominikolszowy/training-notebook-tfds-plant-village)
+
 ## Folder Structure
 ```plaintext
 PlantDiseasesClassificationApp/
